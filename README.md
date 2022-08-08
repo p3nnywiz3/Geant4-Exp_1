@@ -6,7 +6,7 @@
 
 #The Detector is constructed with five individual volumes : Three out of these five volumes behave as active scintillation layers constructed with material : G4_PLASTIC_SC_VINYLTOLUENE. 
 
-#First scintiallation layer is located at 0m,0m,0.867m. Second is located at 0m,0m,0.755m. And third is located at 0m,0m,-0.755m. 
+#First scintiallation layer is located at 0m,0m,0.865m. Second is located at 0m,0m,0.755m. And third is located at 0m,0m,-0.755m. 
 
 #The dimension of each layer are : 10cm, 10cm, 1cm. Each of these layers is also divided into a detector matrix of 100*100 resulting in a position resolution of 10^(-4) each. 
 
