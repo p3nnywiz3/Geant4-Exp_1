@@ -10,7 +10,7 @@
 
 #The dimension of each layer are : 10cm, 10cm, 1cm. Each of these layers is also divided into a detector matrix of 100*100 resulting in a position resolution of 10^(-4) each. 
 
-#The volume contained between scintillation layer one and two is filled with magnetic field of 0.5Tesla in -x direction. It's dimensions are 10cm, 10cm, 10cm.
+#The volume contained between scintillation layer Top and Mid is filled with magnetic field of 0.5Tesla in -x direction. It's dimensions are 10cm, 10cm, 10cm.
 
 #The volume between layer two and three has dimensions 10cm, 10cm, 150cm. The matertial assigned to this volume is G4_Galactic.
 
