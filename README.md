@@ -12,9 +12,9 @@
 
 #The volume contained between scintillation layer Top and Mid is filled with magnetic field of 0.5Tesla in -x direction. It's dimensions are 10cm, 10cm, 10cm.
 
-#The volume between layer two and three has dimensions 10cm, 10cm, 150cm. The matertial assigned to this volume is G4_Galactic.
+#The volume contained between Mid and Bottom Layer has dimensions 10cm, 10cm, 150cm. The matertial assigned to this volume is G4_Galactic.
 
-#Cosmic Muon Shower is generated using header from EcoMug. The size of sky is 1m,1m. The position of shower source is kept right above the first scintillating layer at location : 0m,0m,0.9m.
+#Cosmic Muon Shower is generated using header from EcoMug. The size of sky is 1m,1m. The position of shower source is kept right above the Top scintillating layer at location : 0m,0m,0.9m.
 
 #The theta angle i.e. angle between z-axis and x-axis for muon shower is limmited to a maximum of pi/10.
 
