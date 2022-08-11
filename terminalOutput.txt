@@ -1,0 +1,282 @@
+G4ParticleGun::mu-
+ was defined in terms of KineticEnergy: 1.6170317623075GeV
+ is now defined in terms Momentum: 0.83965864436951GeV/c
+ 
+event number : 	0
+Track position in Scintillator :(-1,1.8090212396933,867.04342600544)
+Charge :-1
+momentum :(-24.814989768721,45.374644902639,-837.62533340993)
+mass: 	105.6583715
+ID: 	1
+Scintillator Hit fX : 	-0.5	 Scintillator Hit fY:  1.5	 Scintillator Hit fZ:  865
+energy deposit in each scintillator:0.43483634664106
+
+
+event number : 	0
+Track position in Scintillator :(-1.1044445855879,2,863.51791857459)
+Charge :-1
+momentum :(-24.482622725111,45.800335242768,-837.04556631456)
+mass: 	105.6583715
+ID: 	1
+Scintillator Hit fX : 	-1.5	 Scintillator Hit fY:  1.5	 Scintillator Hit fZ:  865
+energy deposit in each scintillator:0.5608626484936
+
+
+event number : 	0
+Track position in Scintillator :(-1.2073396688492,2.1924887444092,860)
+Charge :-1
+momentum :(-24.676254795533,46.294020607931,-836.50036899648)
+mass: 	105.6583715
+ID: 	1
+Scintillator Hit fX : 	-1.5	 Scintillator Hit fY:  2.5	 Scintillator Hit fZ:  865
+energy deposit in each scintillator:0.50733550708526
+
+
+event number : 	0
+Track position in Scintillator :(-4.1559754239543,6.8288399477173,760)
+Charge :-1
+momentum :(-24.676254795533,31.304397710307,-837.19534062206)
+mass: 	105.6583715
+ID: 	1
+Scintillator Hit fX : 	0	 Scintillator Hit fY:  0	 Scintillator Hit fZ:  810
+energy deposit in each scintillator:2.7453948629579e-24
+	 
+	 
+event number : 	0
+Track position in Scintillator :(-4.2495873030234,6.9475963601904,756.82401443684)
+Charge :-1
+momentum :(-24.147514032814,32.928701082415,-836.0925414748)
+mass: 	105.6583715
+ID: 	1
+Scintillator Hit fX : 	-4.5	 Scintillator Hit fY:  6.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0.55759683043918
+	 
+	 
+event number : 	0
+Track position in Scintillator :(-4.2880163204483,7,755.49343378984)
+Charge :-1
+momentum :(-23.48946105538,33.065854563702,-835.88991781307)
+mass: 	105.6583715
+ID: 	1
+Scintillator Hit fX : 	-4.5	 Scintillator Hit fY:  6.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0.21400500844273
+	 
+	 
+event number : 	0
+Track position in Scintillator :(-4.4423880819888,7.2173074215627,750)
+Charge :-1
+momentum :(-24.158129377987,32.066762392606,-835.07046432261)
+mass: 	105.6583715
+ID: 	1
+Scintillator Hit fX : 	-4.5	 Scintillator Hit fY:  7.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0.83174336914194
+	 
+	 
+event number : 	0
+Track position in Scintillator :(-4.2417832311515,7,756.78961742315)
+Charge :-1
+momentum :(0.34918750112067,0.64556730465568,-0.41194711204942)
+mass: 	0.51099891
+ID: 	2
+Scintillator Hit fX : 	-4.5	 Scintillator Hit fY:  6.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0.015121938553606
+
+
+event number : 	0
+Track position in Scintillator :(-4.1863526962679,7.1421848483911,756.73321941368)
+Charge :-1
+momentum :(0.096768991026926,0.74794489905821,-0.26208717935699)
+mass: 	0.51099891
+ID: 	2
+Scintillator Hit fX : 	-4.5	 Scintillator Hit fY:  7.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0.036693954442676
+
+
+event number : 	0
+Track position in Scintillator :(-4.1833454884218,7.1623392330834,756.72445128236)
+Charge :-1
+momentum :(0.096787658566716,0.69598632075746,-0.26845625727738)
+mass: 	0.51099891
+ID: 	2
+Scintillator Hit fX : 	-4.5	 Scintillator Hit fY:  7.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0.0042316551571226
+
+
+event number : 	0
+Track position in Scintillator :(-4.1566115797527,7.2953024839466,756.70130800288)
+Charge :-1
+momentum :(0.065967408107559,0.70773633610864,-0.1347421147077)
+mass: 	0.51099891
+ID: 	2
+Scintillator Hit fX : 	-4.5	 Scintillator Hit fY:  7.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0.023639750808182
+
+
+event number : 	0
+Track position in Scintillator :(-4.1611428258778,7.4225530165722,756.65309482155)
+Charge :-1
+momentum :(-0.029785420630593,0.66954352243469,-0.1536764730485)
+mass: 	0.51099891
+ID: 	2
+Scintillator Hit fX : 	-4.5	 Scintillator Hit fY:  7.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0.029043396411958
+
+
+event number : 	0
+Track position in Scintillator :(-4.1719429740511,7.5292275940731,756.60382496332)
+Charge :-1
+momentum :(-0.053697201783422,0.56471803667818,-0.33126376127104)
+mass: 	0.51099891
+ID: 	2
+Scintillator Hit fX : 	-4.5	 Scintillator Hit fY:  7.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0.024433449971872
+
+
+event number : 	0
+Track position in Scintillator :(-4.2009503173159,7.6195849043362,756.52804720819)
+Charge :-1
+momentum :(-0.15162598813975,0.37798892742594,-0.3445114597437)
+mass: 	0.51099891
+ID: 	2
+Scintillator Hit fX : 	-4.5	 Scintillator Hit fY:  7.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0.093555645229684
+
+
+event number : 	0
+Track position in Scintillator :(-4.2817974124471,7.6928671939,756.43489078649)
+Charge :-1
+momentum :(-0.23714089689499,0.24215922317244,-0.29537317848004)
+mass: 	0.51099891
+ID: 	2
+Scintillator Hit fX : 	-4.5	 Scintillator Hit fY:  7.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0.058078665232894
+
+
+event number : 	0
+Track position in Scintillator :(-4.3844788468093,7.7977215513936,756.30699491515)
+Charge :-1
+momentum :(-0,0,-0)
+mass: 	0.51099891
+ID: 	2
+Scintillator Hit fX : 	-4.5	 Scintillator Hit fY:  7.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0.16961999580135
+
+
+event number : 	0
+Track position in Scintillator :(-4.1076342343964,8,755.99805504768)
+Charge :0
+momentum :(0.002339551232165,0.025884530702901,-0.022446348667112)
+mass: 	0
+ID: 	3
+Scintillator Hit fX : 	-4.5	 Scintillator Hit fY:  7.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0
+
+
+event number : 	0
+Track position in Scintillator :(-4.0172500872385,9,755.13088272284)
+Charge :0
+momentum :(0.002339551232165,0.025884530702901,-0.022446348667112)
+mass: 	0
+ID: 	3
+Scintillator Hit fX : 	-4.5	 Scintillator Hit fY:  8.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0
+
+
+event number : 	0
+Track position in Scintillator :(-4,9.1908530177129,754.96538026776)
+Charge :0
+momentum :(0.002339551232165,0.025884530702901,-0.022446348667112)
+mass: 	0
+ID: 	3
+Scintillator Hit fX : 	-4.5	 Scintillator Hit fY:  9.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0
+
+
+event number : 	0
+Track position in Scintillator :(-3.9450530157745,9.7987802478,754.43820259831)
+Charge :0
+momentum :(0.00015507196888877,0.027459728885675,-0.020621838918306)
+mass: 	0
+ID: 	3
+Scintillator Hit fX : 	-3.5	 Scintillator Hit fY:  9.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0
+
+
+event number : 	0
+Track position in Scintillator :(-3.9439166774194,10,754.28708962359)
+Charge :0
+momentum :(0.00015507196888877,0.027459728885675,-0.020621838918306)
+mass: 	0
+ID: 	3
+Scintillator Hit fX : 	-3.5	 Scintillator Hit fY:  9.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0
+
+
+event number : 	0
+Track position in Scintillator :(-3.9382694268754,11,753.53610482676)
+Charge :0
+momentum :(0.00015507196888877,0.027459728885675,-0.020621838918306)
+mass: 	0
+ID: 	3
+Scintillator Hit fX : 	-3.5	 Scintillator Hit fY:  10.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0
+
+
+event number : 	0
+Track position in Scintillator :(-3.9326221763313,12,752.78512002992)
+Charge :0
+momentum :(0.00015507196888877,0.027459728885675,-0.020621838918306)
+mass: 	0
+ID: 	3
+Scintillator Hit fX : 	-3.5	 Scintillator Hit fY:  11.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0
+
+
+event number : 	0
+Track position in Scintillator :(-3.9269749257873,13,752.03413523309)
+Charge :0
+momentum :(0.00015507196888877,0.027459728885675,-0.020621838918306)
+mass: 	0
+ID: 	3
+Scintillator Hit fX : 	-3.5	 Scintillator Hit fY:  12.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0
+
+
+event number : 	0
+Track position in Scintillator :(-3.9213276752433,14,751.28315043626)
+Charge :0
+momentum :(0.00015507196888877,0.027459728885675,-0.020621838918306)
+mass: 	0
+ID: 	3
+Scintillator Hit fX : 	-3.5	 Scintillator Hit fY:  13.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0
+
+
+event number : 	0
+Track position in Scintillator :(-3.9156804246992,15,750.53216563942)
+Charge :0
+momentum :(0.00015507196888877,0.027459728885675,-0.020621838918306)
+mass: 	0
+ID: 	3
+Scintillator Hit fX : 	-3.5	 Scintillator Hit fY:  14.5	 Scintillator Hit fZ:  755
+energy deposit in each scintillator:0
+
+
+event number : 	0
+Track position in Scintillator :(-3.9116786490182,15.708623718704,750)
+Charge :0
+momentum :(0.00015507196888877,0.027459728885675,-0.020621838918306)
+mass: 	0
+ID: 	3
+Scintillator Hit fX : 	-3.5	 Scintillator Hit fY:  15.5	 Scintillator Hit fZ:  755
+ energy deposit in each scintillator:0
+ 
+Energy deposition in whole event :    3.5607981618531
+
+
+1 event has been kept for refreshing and/or reviewing.
+  "/vis/reviewKeptEvents" to review them one by one.
+  "/vis/enable", then "/vis/viewer/flush" or "/vis/viewer/rebuild" to see them accumulated.
+
+
+
