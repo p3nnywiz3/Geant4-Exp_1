@@ -16,9 +16,9 @@ DetectorConstruction::DetectorConstruction()
 {
 	DefineMaterials();
 	
-	xWorld = 50*cm;
-	yWorld = 50*cm;
-	zWorld = 1*m;
+	xWorld = 2.*m;
+	yWorld = 2.*m;
+	zWorld = 2.*m;
 }
 
 DetectorConstruction::~DetectorConstruction()
@@ -87,6 +87,9 @@ void DetectorConstruction::ConstructSDandField()
 	
 	SensitiveDetector *active_bottom = new SensitiveDetector("BottomActiveLayer");
 	logicBottom->SetSensitiveDetector(active_bottom);
+	
+	SensitiveDetector *active_mag = new SensitiveDetector("MagneticDetector");
+	MagLogical->SetSensitiveDetector(active_mag);
 	
 	fMagneticField = new MagneticField();
   	localFieldMgr = new G4FieldManager();

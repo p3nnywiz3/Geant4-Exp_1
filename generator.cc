@@ -4,7 +4,7 @@
 PrimaryGenerator::PrimaryGenerator()
 { 
 	fMuonGen.SetUseSky();
-	fMuonGen.SetSkySize({1.*m,1.*m});
+	fMuonGen.SetSkySize({3.*m,3.*m});
 	fMuonGen.SetSkyCenterPosition({{0.,0.,0.9*m}});
 	fMuonGen.SetMaximumTheta(M_PI/10);
 	

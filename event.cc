@@ -29,6 +29,6 @@ void EventAction::EndOfEventAction(const G4Event*)
 	//manager->FillNtupleDColumn(2,1,energyDeposit);
 	//manager->AddNtupleRow(2);
 	
-	manager->FillNtupleDColumn(1, 0 , fEdep);
-	manager->AddNtupleRow(1);
+	manager->FillNtupleDColumn(2, 0 , fEdep*MeV);
+	manager->AddNtupleRow(2);
 }
