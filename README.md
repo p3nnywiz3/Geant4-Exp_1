@@ -14,7 +14,7 @@
 
 #The volume contained between Mid and Bottom Layer has dimensions 10cm, 10cm, 150cm. The matertial assigned to this volume is G4_Galactic.
 
-#Cosmic Muon Shower is generated using header from EcoMug. The size of sky is 1m,1m. The position of shower source is kept right above the Top scintillating layer at location : 0m,0m,0.9m.
+#Cosmic Muon Shower is generated using header from EcoMug. The size of sky is 3m,3m. The position of shower source is kept right above the Top scintillating layer at location : 0m,0m,0.9m.
 
 #The theta angle i.e. angle between z-axis and x-axis for muon shower has been limited to a maximum of pi/10.
 
